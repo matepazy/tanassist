@@ -17,4 +17,4 @@
 7. Nyomj rá a `Create API key in new project` gombra
 8. Majd másold ki a az API kulcsodatű
    
-# **⚠️ FONTOS! Ezt NE oszd meg senkivel!**
+# **⚠️ FONTOS! Az API kulcsodat NE oszd meg SENKIVEL!**
