@@ -1,6 +1,9 @@
-<img src="https://github.com/user-attachments/assets/448a8393-ec01-4049-8441-7296b4860bd9" width="150" height="150" />
+<img src="https://github.com/user-attachments/assets/448a8393-ec01-4049-8441-7296b4860bd9" width="100" height="100" />
 
 # TanAssist: tanulás első fokon
+
+Ellenőrizd tudásod a TanAssist segtségével. Töltsd fel a jegyzeteidet, vagy válassz egy témát.
+
 ## Hogyan kell használni?
 Első indításkor meg kell adnod az API kulcsodat, [amit itt tudhatsz meg, hogyan kell megszerezni.](https://github.com/matepazy/tanassist/wiki/Setup)
 
